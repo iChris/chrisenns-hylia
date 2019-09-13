@@ -1,9 +1,0 @@
----
-title: 'Hillman Curtis'
-date: 2012-04-19
-draft: false
-tags: [Life, Video]
-
----
-
-I just saw the news via Twitter that [Hillman Curtis](http://hillmancurtis.com/) passed away. I didn't know him nor will I pretend that I'm deeply affected by his passing - other than that he's leaving behind a wife and two young children - but I do have his book, [Hillman Curtis on Creating Short Films for the Web](http://www.amazon.ca/gp/product/0321278917/ref=as_li_ss_tl?ie=UTF8&tag=farawsoclos0a-20&linkCode=as2&camp=15121&creative=390961&creativeASIN=0321278917)![](http://www.assoc-amazon.ca/e/ir?t=farawsoclos0a-20&l=as2&o=15&a=0321278917), on my shelf in my office. I periodically flip through it when I need a creative break from whatever I'm working on and need inspiration from a different medium. His book inspired and motivated a lot of what I love about this age of making videos. How accessible the tools are today is awesome, and yet, how it ultimately comes down to the creativity to make things that are as inspiring and motivating to others as the idea might be in your head to you. Working in video is something I wish I did more of in [my business](http://lemonproductions.ca) - but I really have only myself to blame for that, right? Interestingly when I went to Amazon.ca to find the link for the book, Amazon told me I had purchased the book on January 17th, 2007. Which is a few months before our first son was born and I was still searching for what I should be doing to meld my family's income with my interests and passions. I'm still searching. But I'm further up the road than I was in January, 2007.  [Direct link to video](https://vimeo.com/38130536)

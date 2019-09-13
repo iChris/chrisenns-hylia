@@ -1,9 +1,0 @@
----
-title: 'Paying for Web Design vs Squarespace'
-date: 2015-01-14
-draft: false
-tags: [Marketing, Podcast, Podcasting, sponsor, website design]
-
----
-
-Something about the way John Gruber & Marco Arment mocked paying money for web design during a Squarespace ad on The Talk Show seemed off. You can [listen here at the 1:14 mark](http://pca.st/yRf5). (**Edit**: I should add that the [rest of the episode](https://daringfireball.net/thetalkshow/2015/01/12/ep-107) is a great discussion of the struggles Apple is facing with keeping up software support on the Mac and iOS.) I’m not at all worried about my business or profession. It just sounded odd coming from two very creative people. People I generally respect. To hear your profession and business mocked so soundly hit a bit of a nerve I guess. Replace web design with iOS app design and would it be the same giggle? I realize neither John nor Marco make their money by developing iOS apps for clients. And I'm sure they're smart enough to recognize the value of having a professional involved in creating a website in some (most?) situations. Maybe the web design profession has gotten smeared with a similar brush as the SEO world where a bunch of bad apples who make a quick buck off uploading a theme to WordPress, copying and pasting in a bit of content, and then are never heard from again. For the record, I have no problem recommending [Squarespace](http://www.squarespace.com/) to potential clients when it doesn't make sense for them to hire me. It's an amazing platform that's really powerful, really well designed and works great right out of the box. I just think you could do a better sponsor read that didn't involve mocking something. Talk about the benefits and positives of a product or service. But then what do I know from sponsor reads? I'm certainly not charging [$4k/episode for sponsorships](http://standard.fm).

@@ -1,9 +1,0 @@
----
-title: 'New U2'
-date: 2002-08-25
-draft: false
-tags: [Music]
-
----
-
-The u2 news site I work with has got the new u2 song already - apparently it was played earlier this morning on the BBC. Click here to check it out! (read on for chords and lyrics if you're so inclined) Electrical Storm (lyrics) Intro: F#m / A / E / B Verse: F#m / A / B The sea it swells like a sore head F#m / A / B and the night it is aching F#m / A / B Two lovers lie with no sheets on their bed F#m / A / B and the day it is breaking F#m / A / B On rainy days we go swimming out F#m / A / B on rainy days, swimming in the sound F#m / A / B On rainy days we go swimming out Pre-Chorus(?): D E C#m You're in my mind all of the time D I know that's not enough D E if the sky can crack C#m there must be some way back D for love and only love Intro: F#m / A / E / B 2nd Verse, Same as the First: Car alarm won't let you back to sleep you're kept awake dreaming some else's dream coffee is cold, but it will get you through compromise, that's nothing new to you let's see colours that have never been seen let's go to places no one else has been Pre-Chorus(?): You're in my mind all of the time I know that's not enough if the sky can crack there must be some way back to love and only love Chorus: D / E F#m A Electrical Storm D / E F#m A Electrical Storm D / E F#m A Electrical Storm B Baby don't cry Intro: F#m / A / E / B (2x) Verse Chords: (F#m / A / B) It's hot as hell, honey in this room sure hope the weather will break soon the air is heavy, heavy as a truck hope the rain will wash away our bad luck D / E / C#m / D heeeey... heeeey..... D / E / C#m / D If the sky can crack, there must be some way back for love and only love D / E F#m A Electrical Storm D / E F#m A Electrical Storm D / E F#m A Electrical Storm B (long time) Solo: F / C / E / A E / A Baby don't cry Baby don't cry Baby don't cry Baby don't cry

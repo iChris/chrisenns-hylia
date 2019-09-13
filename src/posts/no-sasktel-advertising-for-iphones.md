@@ -1,9 +1,0 @@
----
-title: 'No Sasktel Advertising for iPhones'
-date: 2010-08-19
-draft: false
-tags: [Apple]
-
----
-
-Another little birdie (an earlier [one sent a screenshot of an iPhone connected to the Sasktel network](http://twitter.com/iChris/status/21437985942)) that works somewhere in the advertising machine for Sasktel emailed me to say that Sasktel doesn't have anything in the pipeline on the advertising side related to the iPhone 4. [Negotiations continue](http://twitter.com/SaskTel/status/21329658006). _Right_. [As I tweeted yesterday](http://twitter.com/iChris/status/21501282332), I think this is going to be the only path to an iPhone 4 on Sasktel's network in the near future: [![](https://chrisenns.com/wp-content/uploads/2010/08/iPhoneSasktel.png "iPhoneSasktel Tweet")](http://twitter.com/iChris/status/21501282332) You can also buy [an unlocked iPhone 3GS or iPhone 4](http://store.apple.com/ca/browse/home/shop_iphone/family/iphone?mco=OTY2ODA2OQ) directly from Apple and then as soon as Sasktel offers microSIM cards throw that in your phone and you're good as well. (See [this tweet from Sasktel](http://twitter.com/SaskTel/status/21580854058) in response to [this question](http://twitter.com/marcellorenz/status/21549450033)) And that's probably all Sasktel is going to do for now. Why bother dealing with trying to get Apple's permission to sell the iPhone, which Sasktel won't make much money on anyways, when you can take people's money for the data they use on your network. Sure, it's a great feather in their cap to be able to say they offer the iPhone (_like just about every other cellular network in the freakin world_) but money from data plans can help soothe Sasktel's pride at the next cellular network company get together.

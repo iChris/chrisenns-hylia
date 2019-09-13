@@ -1,9 +1,0 @@
----
-title: 'How To Dismantle An Album Release'
-date: 2004-11-22
-draft: false
-tags: [Music]
-
----
-
-Tomorrow's D day for the new U2 album. As [U2 drive around Gotham](http://u2log.com/archive/2004/11/u2_playing_nyc_from_the_back_of_a_truck.php) playing from the back of a flatbed truck, you can get the album in whatever [format](http://www.amazon.ca/exec/obidos/ASIN/B00068IOWM/farawsoclos0a-20) [you](http://www.amazon.ca/exec/obidos/ASIN/B0006399FS/farawsoclos0a-20) [desire](http://www.apple.com/itunes). Continue reading for lyrics from my current favorite off the new album: Sometimes You Can't Make It On Your Own. Tough, you think you've got the stuff You're telling me and anyone You're hard enough You don't have to put up a fight You don't have to always be right Let me take some of the punches For you tonight Listen to me now I need to let you know You don't have to go it alone And it's you when I look in the mirror And it's you when I don't pick up the phone Sometimes you can't make it on your own We fight all the time You and I...that's alright We're the same soul I don't need...I don't need to hear you say That if we weren't so alike You'd like me a whole lot more Listen to me now I need to let you know You don't have to go it alone And it's you when I look in the mirror And it's you when I don't pick up the phone Sometimes you can't make it on your own I know that we don't talk I'm sick of it all Can - you - hear - me - when - I - Sing, you're the reason I sing You're the reason why the opera is in me... Where are we now? I've got to let you know A house still doesn't make a home Don't leave me here alone... And it's you when I look in the mirror And it's you that makes it hard to let go Sometimes you can't make it on your own Sometimes you can't make it The best you can do is to fake it Sometimes you can't make it on your own
