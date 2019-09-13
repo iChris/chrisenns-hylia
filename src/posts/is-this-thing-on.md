@@ -1,0 +1,9 @@
+---
+title: 'Is This Thing On?'
+date: 2008-08-28
+draft: false
+tags: [climb, house, inside, Pictures, Random]
+
+---
+
+[![Rock Star in Diapers](http://farm4.static.flickr.com/3119/2807752682_69e37aa8ea_m.jpg)](http://www.flickr.com/photos/lemon/2807752682/) We're still around, and still taking lots of pictures of Damien. We kind of forgot about this site for awhile, so here's a bunch of new pictures to get us caught up. :) Damien has started crawling up onto things - chairs, stairs and now into his wagon: [![Sitting in the Wheel Barrow](http://farm4.static.flickr.com/3075/2807757274_838d6b1832_m.jpg)](http://www.flickr.com/photos/lemon/2807757274/) [![Enjoying the Wheel Barrow Too Much](http://farm4.static.flickr.com/3060/2806913829_7ed17caa5f_m.jpg)](http://www.flickr.com/photos/lemon/2806913829/) [![Riding in his Wheel Barrow](http://farm4.static.flickr.com/3104/2806914955_baa30ef0a5.jpg)](http://www.flickr.com/photos/lemon/2806914955/) It makes it harder to just leave him in a room to play now as he can get into so much more stuff as he figures out how to climb up higher. He's still not walking on his own - though he'll gladly hold your hand and walk along with you. He _loves_ to push around his wagon and walk around the house with it: [![Walking With His Wheel Barrow](http://farm4.static.flickr.com/3003/2806916143_50927feee7.jpg)](http://www.flickr.com/photos/lemon/2806916143/) [![Damien, Sad Face](http://farm4.static.flickr.com/3066/2807743594_285c0d86dd.jpg)](http://www.flickr.com/photos/lemon/2807743594/) [![Damien, Closeup](http://farm4.static.flickr.com/3083/2807750120_488f549500.jpg)](http://www.flickr.com/photos/lemon/2807750120/)

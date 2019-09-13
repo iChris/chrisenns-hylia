@@ -1,0 +1,9 @@
+---
+title: 'Google Acquires Sparrow'
+date: 2012-07-20
+draft: false
+tags: [Apple, email client, Google, ios, iphone]
+
+---
+
+The best (_only?_) alternative to Mail.app on your iPhone [just got bought by Google](http://sparrowmailapp.com/). And according to an [article on The Verge](http://www.theverge.com/2012/7/20/3172222/google-buys-sparrow-mail), no new features will be added to Sparrow, nor should you hold out hope [for the teased iPad version of Sparrow](http://www.theverge.com/2012/7/20/3172365/sources-google-sparrow-25-million-gmail-client). As previously mentioned on this blog ([here](https://chrisenns.com/2012/03/an-alternative-to-mail-on-iphone/) & [here](https://chrisenns.com/2012/06/sparrow-for-iphone-on-sale/)), Sparrow is a nice interface for using a Gmail or Google Apps email account. It still is a great email client, even though Google bought the Sparrow team, it's just disappointing to know the direction they were headed with an independent app will be swallowed up inside the Google machine. ![Email I Received from Sparrow About their Google Acquisition](https://chrisenns.com/wp-content/uploads/2012/07/Screen-Shot-2012-07-20-at-12.11.21-PM-600x563.png "Email I Received from Sparrow About their Google Acquisition") It's ironic that most of Sparrow's customers will be notified of this through their app. An app they purchased in part because they didn't like Google's iOS interface or Apple's Mail.app. The good news is that Sparrow for iPhone will continue to work as advertised when it was purchased. And whatever new features the Sparrow team were hoping to add in will hopefully be rolled into a new native iOS email app from Google. As [Mark Boulton](http://www.markboulton.co.uk/) tweeted in response to the news: https://twitter.com/markboulton/statuses/226361099002449921 ...to which I'd add that Sparrow decided to be "eaten" so we can't put the blame solely on Google.

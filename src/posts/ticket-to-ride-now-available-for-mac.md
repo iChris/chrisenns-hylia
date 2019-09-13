@@ -1,0 +1,9 @@
+---
+title: 'Ticket to Ride Now Available for Mac'
+date: 2012-05-04
+draft: false
+tags: [Apple, Games]
+
+---
+
+Ticket to Ride is [now available for the Mac for $9.99 on the Mac App Store](http://click.linksynergy.com/fs-bin/stat?id=6PFrOqNV4B8&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fca%252Fapp%252Fticket-to-ride%252Fid470834073%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30). With the ability to play against Mac, PC, Linux and iPad users, it's a pretty great way to get your railroad gaming fix. Except if you're colour blind. I find the iPhone version basically unplayable at times because I can't tell the difference between different train cars. I wish more developers would add the ability to choose your own colours when playing on devices like the iPhone. It shouldn't matter what colour I choose on my device - the software should be able to figure out which trains belong to who. Ticket to Ride is also available for the [iPhone (called Ticket to Ride Pocket - $1.99)](http://click.linksynergy.com/fs-bin/stat?id=6PFrOqNV4B8&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fca%252Fapp%252Fticket-to-ride-pocket%252Fid471857988%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) and [iPad ($6.99)](http://click.linksynergy.com/fs-bin/stat?id=6PFrOqNV4B8&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fca%252Fapp%252Fticket-to-ride%252Fid432504470%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30). [![Ticket to Ride - Days Of Wonder, Inc.](http://r.mzstatic.com/images/web/linkmaker/badge_macappstore-lrg.gif)](http://click.linksynergy.com/fs-bin/stat?id=6PFrOqNV4B8&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fca%252Fapp%252Fticket-to-ride%252Fid470834073%253Fmt%253D12%2526uo%253D4%2526partnerId%253D30)

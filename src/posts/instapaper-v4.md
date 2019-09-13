@@ -1,0 +1,9 @@
+---
+title: 'Instapaper v4'
+date: 2011-10-17
+draft: false
+tags: [app, Apple, Apple, iphone, review]
+
+---
+
+An update to an already great app, version 4 of [Instapaper ($4.99 in the App Store for iPhone/iPad)](http://click.linksynergy.com/fs-bin/stat?id=6PFrOqNV4B8&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fca%252Fapp%252Finstapaper%252Fid288545208%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) adds, among other things, a [new icon, cleaned up typography, nicer colours and a redesigned logo](http://jasonsantamaria.com/articles/instapaper-4). And there's a whole bunch of [usability and technical improvements as well](http://www.marco.org/2011/10/17/instapaper-4-released). [![](https://chrisenns.com/wp-content/uploads/2011/10/Instapaper-200x300.jpg "Instapaper")](https://chrisenns.com/wp-content/uploads/2011/10/Instapaper.jpg) Instapaper is good on the iPhone, but if you've got an iPad, you should definitely pick up a copy if you enjoy reading at all. You can listen to the [first episode of Appsession](http://ssktn.com/podcasts/appsession/001-appsession-instapaper/) where I talked about why I like it so much. I'll have to do an update of that episode with all the new stuff in version 4. [![Instapaper - Marco Arment](http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-lrg.gif)](http://click.linksynergy.com/fs-bin/stat?id=6PFrOqNV4B8&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fca%252Fapp%252Finstapaper%252Fid288545208%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30)

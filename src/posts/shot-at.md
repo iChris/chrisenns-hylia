@@ -1,0 +1,9 @@
+---
+title: 'Shot At'
+date: 2011-05-20
+draft: false
+tags: [house, Life, Life, moving, packing]
+
+---
+
+Shortly after we moved into our house I was washing dishes when I heard a loud bang, which to my naive ears sounded a little like a gunshot. I turned around and saw that the outside pane of our kitchen window was cracked, and there was a hole in it. And all around the hole as well as on the inside pane of glass there was paint. Someone had shot at me while I was doing dishes. With a paintball gun Apparently our new neighbourhood didn't like men doing dishes. Or at least that was my solid logic. ![20110520-111117.jpg](https://chrisenns.com/wp-content/uploads/2011/05/20110520-111117.jpg) That was four years ago and I'm happy to say that we were never shot at again, paintball or otherwise. It's with more than a little bit of sadness that we are packing up our house this week and moving on. As much as I've complained about squeaky floors and other issues with a 1949 era house, this has also been our first real house. Both of our boys were born here and it's all they've known home to be. And while they (at least our nearly 4yr old anyway) are excited about “the new house” it's still sad to see it go. This has turned into more of a trip down memory lane than I intended so I'll stop for now. But as I stand in our kitchen typing out this post on my iPhone, I was reminded of that window and that it took me nearly four years to get it fixed. Mainly so that we could sell our house. Because who's going to buy a house that looks like it's been shot? Paintball or otherwise. I am looking forward to our new neighbourhood and am curious to see what the reaction to a guy doing dishes there will be.

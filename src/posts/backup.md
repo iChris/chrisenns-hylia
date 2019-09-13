@@ -1,0 +1,9 @@
+---
+title: 'BACKUP!'
+date: 2011-04-06
+draft: false
+tags: [Apple, backup, hard drive, Nerds, time machine, usb]
+
+---
+
+I just had a phone call from someone who is leaving in a few hours for their vacation and their MacBook is now displaying something like this on the screen: ![](https://chrisenns.com/wp-content/uploads/2011/04/questionmark.jpg "questionmark") The dreaded question mark on the Mac display. The hard drive may be lost. Or maybe it's just a weird issue that [can be fixed with a reboot/disk check](http://support.apple.com/kb/ts1440). That's not the point. They said they may have some of their info backed up, but aren't sure. Luckily they're heading somewhere close to an Apple store for their holidays so they'll get great support there - but what about their data? Say it with me: Computers are **not** perfect. Mac computers are **not** perfect. The hard drive in your computer **will** fail. If you're on a Windows computer, I can't help you. I'm sure there's some sort of Backup wizard that you can use with only 10 clicks. If you're on a Mac, you have no excuse. Time Machine is built in and will just start working if you plug a USB hard drive in. Buy [a 1 TB Western Digital External USB Hard Drive for $70CDN](http://www.amazon.ca/gp/product/B002QEBMB4/ref=as_li_ss_tl?ie=UTF8&tag=farawsoclos0a-20&linkCode=as2&camp=15121&creative=390961&creativeASIN=B002QEBMB4) (or [a 1TB eSata/FW800/USB Lacie for $156 if you need something fancier](http://www.amazon.ca/gp/product/B001KFH6K6/ref=as_li_ss_tl?ie=UTF8&tag=farawsoclos0a-20&linkCode=as2&camp=15121&creative=390961&creativeASIN=B001KFH6K6) - _affiliate links there so I get rich on your purchases.. it's all a scam!_) I have little to no sympathy to people who lose their data these days. You really have no excuse to complain if $70 is too much to justify backing up all your photos, music and documents.

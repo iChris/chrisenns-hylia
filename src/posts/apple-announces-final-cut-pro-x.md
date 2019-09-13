@@ -1,0 +1,9 @@
+---
+title: 'Apple Announces Final Cut Pro X'
+date: 2011-04-13
+draft: false
+tags: [app store, Apple, Apple, final cut pro]
+
+---
+
+At this week's Final Cut Pro User Group Network SuperMeet in Las Vegas, [Apple announced the latest version of Final Cut Pro](http://www.macrumors.com/2011/04/12/apple-demos-final-cut-pro-x-at-nab-2011/), jumping from version 7 to version X (_ten_). It looks amazing - even at the hobby video editor level I'm at I can appreciate the great improvements they've made by starting over from the ground up. If you watch the videos posted by a user ([part 1](http://www.youtube.com/watch?v=-77beFICSlI), [part 2](http://www.youtube.com/watch?v=gAXL7L9fToQ)), you can hear the excitement from the actual editors (people who make real money doing this stuff for a living) when they see all the improvements Apple's made. Bonus Mac nerd points if you watch until the end when they give a standing ovation at the announcement of the price being only $299USD. Plenty of features brought over from iMovie - both the Mac version and the iOS version for iPhone/iPad. Apple's clearly prepping their Mac applications for a future where touch is supported in OS X. No mention of what's going to happen with Motion, Soundtrack Pro, or Color but you only have to look at what Apple has done with iWork and iLife to know that now that the Mac App Store is around, Apple can break apart their old bundles and just let people buy whichever applications they want. No DVDs to produce and boxes to ship and stock means they can allow customers to choose. June can't come fast enough for anyone involved in video on the Mac. ---- _DVD's and physical media clearly can't disappear fast enough for Apple, and so I wouldn't hold your breath for anything new from DVD Studio Pro. It'll likely be repackaged for one more trip around the track and then sent off to the showers._

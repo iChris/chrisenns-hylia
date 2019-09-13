@@ -1,0 +1,13 @@
+---
+title: 'Regina Idiot Files Suit Against Apple and Siri'
+date: 2012-04-06
+draft: false
+tags: [Apple]
+
+---
+
+A class action lawsuit has been [filed against Apple Canada by Catlin Hendricks of Regina](http://www.iphoneincanada.ca/iphone-news/canadian-files-class-action-lawsuit-against-apple-and-siri-on-the-iphone-4s/):
+
+> “Siri either did not understand what the plaintiff was asking or, after a very long wait time, responded with the wrong answer. The plaintiff quickly recognized the futility of using Siri,” contends the suit.
+
+Which is exactly why Apple Canada doesn't [advertise the iPhone 4S as coming with Siri](http://www.apple.com/ca/iphone/). Compare Apple Canada's [feature page for the iPhone 4S](http://www.apple.com/ca/iphone/features/) with [the US feature page for the iPhone 4S](http://www.apple.com/iphone/features/) - notice anything missing on the Canadian side? **Apple.com:** [![Apple.com iPhone 4S Features](https://chrisenns.com/wp-content/uploads/2012/04/Apple.com-iPhone-4S-Features-300x157.png "Apple.com iPhone 4S Features")](https://chrisenns.com/wp-content/uploads/2012/04/Apple.com-iPhone-4S-Features.png) **Apple Canada:** [![Apple Canada iPhone 4S Features page](https://chrisenns.com/wp-content/uploads/2012/04/Apple-Canada-iPhone-4S-Features-page-300x175.png "Apple Canada iPhone 4S Features page")](https://chrisenns.com/wp-content/uploads/2012/04/Apple-Canada-iPhone-4S-Features-page.png) If it wasn't for the fact that we in Canada often see American commercials, you almost wouldn't know that the iPhone 4S even comes with something called Siri until you turned it on. And even then, there's very clear warnings that [Siri can't provide directions in Canada](http://www.iphoneincanada.ca/iphone-4s/siri-in-canada-hands-on-no-restaurants-maps-and-directions-video/). ![iPhone 4S Siri Warnings in Canada](https://chrisenns.com/wp-content/uploads/2012/04/photo-13-233x350-199x300.jpg "iPhone 4S Siri Warnings in Canada") This ought to get thrown out of court and the plaintiff and lawyer be forced to pay back all the money and time they're wasting in the courts. I'm not sure what [John Gruber's](http://daringfireball.net) jackass of the month award is worth in Canadian, but he should start sending it through customs because we've got a real winner down the highway. _Original article via [iphoneincanada.ca](http://www.iphoneincanada.ca/iphone-news/canadian-files-class-action-lawsuit-against-apple-and-siri-on-the-iphone-4s/)_

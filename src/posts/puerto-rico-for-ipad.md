@@ -1,0 +1,9 @@
+---
+title: 'Puerto Rico HD for iPad'
+date: 2011-08-04
+draft: false
+tags: [board game, Friends, Games, ipad, settlers]
+
+---
+
+Puerto Rico, a popular board game similar in style to Settlers of Catan and Carcassonne (_[read more about Carcassonne for iOS here](<a href=)_), [is now available for the iPad](http://click.linksynergy.com/fs-bin/stat?id=6PFrOqNV4B8&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fca%252Fapp%252Fpuerto-rico-hd%252Fid438437326%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30). With online play support through Game Center as well as pass and play for local games, it looks like a great version to have if you want a quick game with no setup or cleanup. As is often the case with these types of games, it takes 10 minutes just to get started so they're not conducive to quick, spur of the moment play. Plus, Puerto Rico requires a minimum of three players so it's not possible for my wife and I to play a game. As Marco Arment states in his review of the game, [it's probably not the best way to learn how to play the game if you haven't ever played it before](http://www.marco.org/2011/08/04/puerto-rico-hd-ipad-board-game-review). But it is a great way to try different strategies or play with one other person on a rainy day at the lake while your kids are hopefully sleeping. [![Puerto Rico HD - Ravensburger Digital GmbH](http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-lrg.gif)](http://click.linksynergy.com/fs-bin/stat?id=6PFrOqNV4B8&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fca%252Fapp%252Fpuerto-rico-hd%252Fid438437326%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30)
