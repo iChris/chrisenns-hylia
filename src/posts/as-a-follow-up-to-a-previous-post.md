@@ -1,0 +1,11 @@
+---
+title: 'As a Follow Up to A Previous Post'
+date: 2010-01-15
+draft: false
+tags: [haiti, Life, political commentary, Politics, tragedy, Video, World News]
+
+---
+
+I don't know that I could've said it any better as a follow up to [this previous post](https://chrisenns.com/2010/01/14/christians-give-christians-a-bad-name/):  [Direct link to video](http://www.youtube.com/watch?v=zPoWOw8Jm5w), via [jasonpermenter.com](http://jasonpermenter.com/post/334555417/countdown10) And the text in case you don't like video:
+
+> Even the worst of us in this political mosh pit of the early 21st century can stop, on occasion, in grief and in human sympathy, in mourning, or just in self-preservation. Not Rush Limbaugh and not Pat Robertson. We‘ll explore this at length later. But Mr. Robertson, it is laughable now to try to call him reverend, explained today that this earthquake was part of a, quote, “deal with the devil,” that he claims the nation made in the 19th century to gain its freedom from France. “True story,” Robertson says. Sir, because of your tone deafness, and your delight in human misery, and your dripping, self-satisfied, holier than thou, senile crap, I am now likelier to believe that you are the devil. Limbaugh, meantime, did not know just when to shut up. Today he blamed communism for the poverty of Haiti, blamed President Obama for holding a news conference the day after this cataclysm, when he did not hold one after the failed, half assed attempt in Detroit, and said that Obama would, quote, “use Haiti to,” quote, “burnish their, shall we say, credibility with the black community in the both light-skinned and dark-skinned black community in this country.” Mr. Robertson, Mr. Limbaugh, your lives are not worth those of the lowest, meanest, poorest of those victims still lying under that rubble in Haiti tonight. You serve no good. You serve no God. You inspire only stupidity and hatred. And I would wish you to hell. But knowing how empty your souls must be for you to be able to say such things in a time of such pain, I suspect the vacant, purposeless lives you both live now are hell enough already.

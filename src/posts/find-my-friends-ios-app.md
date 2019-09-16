@@ -1,0 +1,9 @@
+---
+title: 'Find My Friends iOS App'
+date: 2011-10-12
+draft: false
+tags: [Apple, Apple, iOS5]
+
+---
+
+Apple released another new app today, [Find My Friends](http://click.linksynergy.com/fs-bin/stat?id=6PFrOqNV4B8&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fca%252Fapp%252Ffind-my-friends%252Fid466122094%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30) (also requires iOS5), that allows you to selectively turn on the location/GPS and allow people to see where you are - or you to see where they are. It's the perfect app for those concerned about sharing their every move on other sites like [Gowalla](http://gowalla.com/), Facebook and Foursquare where everything is wide open unless you turn on the security settings. You can do things such as set a temporary time that your location is available to certain people, as seen in the screenshot below: ![](https://chrisenns.com/wp-content/uploads/2011/10/Screen-Shot-2011-10-12-at-1.31.51-PM.png "Find my Friends") So if you're at a conference or a family vacation at Disneyland, you could allow everyone you know to see where you are so you can more easily meet up and find each other. As I said on a recent episode of [Too Lazy to Blog](http://ssktn.com/podcasts/tltb/001-too-lazy-to-blog-lets-talk-iphone/), it's one of those features that sounds really good when talked up - but most people probably won't use it that often. [![Find My Friends - Apple](http://ax.phobos.apple.com.edgesuite.net/images/web/linkmaker/badge_appstore-lrg.gif)](http://click.linksynergy.com/fs-bin/stat?id=6PFrOqNV4B8&offerid=146261&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fitunes.apple.com%252Fca%252Fapp%252Ffind-my-friends%252Fid466122094%253Fmt%253D8%2526uo%253D4%2526partnerId%253D30)

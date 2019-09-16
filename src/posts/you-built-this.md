@@ -1,0 +1,9 @@
+---
+title: 'You Built This'
+date: 2011-10-21
+draft: false
+tags: [Blogging, business, Business, guitar, inspiration, instruction, online, teaching, Technology]
+
+---
+
+Anthony Stauffer, co-host of [The Google Juice](http://ssktn.com/shows/the-google-juice/), the longest running (that's not currently running) podcast about anti-internet marketing, is celebrating 4 years of running his online guitar training website [Steviesnacks.com](http://www.steviesnacks.com). 2 years ago he was able to quit his job and take it full-time. I consider the way he's built his business to be the model for how to keep your integrity intact while providing for your family through your passions and interests. I first came across Anthony via the excellent tech/gear/how to podcast he did with Dan Benjamin called [The Mixdown](http://5by5.tv/mixdown). Anthony's clearly a teacher at heart and his explanations of mic mechanics, audio software, compression, distortion and other topics gave what I'm attempting to do over at [SSKTN.com](http://ssktn.com) a huge leap forward and it's not over stating things to say that I wouldn't be where I'm at with SSKTN if I hadn't stumbled across The Mixdown and Anthony Stauffer. When he agreed to be a guest on my interview show, [Welcome to the Internet](http://ssktn.com/podcasts/welcometotheinternet/008-welcome-to-the-internet-anthony-stauffer/), I was shocked that he'd take the time to chat about his business with me - some random dude from Canada. But talk he did and it has since become the most downloaded episode I've recorded to date on [SSKTN.com](http://ssktn.com). Anthony wrote a great article [thanking all the people who helped him build Steviesnack.com](http://www.steviesnacks.com/blog/2011/10/21/4-years-you-built-this.html). Congratulations Anthony on 4 years of sweet guitar tones and melting people's faces off. _I'm sure the inclusion of my name on his list of thanks was an administrative error and will be remedied shortly._

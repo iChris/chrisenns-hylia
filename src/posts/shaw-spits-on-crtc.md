@@ -1,0 +1,13 @@
+---
+title: 'Shaw Spits on Net Neutrality, the CRTC and the Stop the Meter Petition'
+date: 2011-07-15
+draft: false
+tags: [canada, internet, isp, Nerds, netflix, shaw, Technology, TV]
+
+---
+
+**Update**: According to Shaw's [Facebook page](http://www.facebook.com/topic.php?uid=151441184886657&topic=711), streaming to your computer will contribute to your internet data usage. _Link via [@timbray](https://twitter.com/timbray/status/91940817958223872)_. Shaw is apparently launching a competing movie service to what Netflix is doing - watch streaming movies on your TV or computer, with tablet and phone support coming later. Where the spitting comes in is that the movies Shaw is going to offer through their Movie Club won't count against your monthly download cap, whereas movies you watch on Netflix would. If you go over your download cap, you would pay an overage fee for exceeding your download limit for that month.
+
+> So why should you care? Because, in short, Shaw is making the internet suck. It wants to turn your internet from the awesome experience where you have unlimited choice and can try any service that is out there, into the experience of cable, where your choice is limited to the channels they choose to offer you. Today they'll favour their movie service as opposed to (the much better) Netflix service. But tomorrow they may decide... hey you are using Skype instead of our telephone service, people who use "our skype" will get cheaper access than people who use skype. Shaw is effectively applying a tax on new innovative and disruptively cheap service on the internet so that you don't use them. They are determining - through pricing - what you can and cannot do with your computer while elsewhere in the world, people will be using cool new disruptive services that give them better access to more fun content, for cheaper. Welcome to the sucky world of Canada's internet. [**eaves.ca** The Audacity of Shaw: How Canada's Internet Just Got Worse](http://eaves.ca/2011/07/15/the-audacity-of-shaw-how-canadas-internet-just-got-worse/)
+
+I completely agree with David's comment later on, referring to an earlier post of his, stating that "[we need to get the ISPs (_Internet Service Providers_) out of the business of delivering content](http://eaves.ca/2011/05/24/how-to-unsuck-canada’s-internet-creating-the-right-incentives/)." Shaw's internet division should have no connection, in a business sense, to their TV division. _Original link to article via [@timbray](https://twitter.com/timbray/status/91916141336866816)_

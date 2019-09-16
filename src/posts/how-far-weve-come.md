@@ -1,0 +1,9 @@
+---
+title: 'How Far We''ve Come'
+date: 2011-11-17
+draft: false
+tags: [Apple, ios, ios3, iphone4, ipod touch, Nerds, Technology]
+
+---
+
+The first image you'll see as you scroll is a screenshot from my freshly recharged 1st generation iPod touch, running iOS 3. At its full resolution it was capable of displaying 320 pixels across and 480 pixels high. The second image is a screenshot from my iPhone 4 running iOS5. It has 640 pixels across and 960 pixels vertical - double that of the original iPod touch. The screen sizes on the actual devices are the same. So despite the fact that the screenshot is a lot larger from the iPhone 4 - it's just a lot more pixels crammed into the same space on the actual device. Holding the two devices side by side it's hard to believe we looked at the iPod touch and similar devices with as much amazement as we did considering how blurry the text is and how pixellated the icons look compared to the iPhone 4's display. \[caption id="attachment\_19805" align="aligncenter" width="320" caption="iPod touch (1st Gen) iOS 3"\]![iPod touch (1st Gen) iOS 3](https://chrisenns.com/wp-content/uploads/2011/11/iPod-touch-1st-Gen-iOS-3.png "iPod touch (1st Gen) iOS 3")\[/caption\] \[caption id="attachment\_19806" align="aligncenter" width="320" caption="iPhone4 iOS5 at half resolution"\]![iPhone4 iOS5](https://chrisenns.com/wp-content/uploads/2011/11/iPhone4-iOS5.png "iPhone4 iOS5")\[/caption\] \[caption id="attachment\_19806" align="aligncenter" width="640" caption="iPhone4 iOS5 at full resolution"\]![iPhone4 iOS5](https://chrisenns.com/wp-content/uploads/2011/11/iPhone4-iOS5.png "iPhone4 iOS5")\[/caption\] Looking at my wife's first generation iPad, I can't wait until they figure out how to get a [Retina Display](http://www.apple.com/iphone/features/retina-display.html) into the iPad lineup.

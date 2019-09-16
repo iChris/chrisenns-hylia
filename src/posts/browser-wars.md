@@ -1,0 +1,9 @@
+---
+title: 'Browser Wars'
+date: 2010-07-08
+draft: false
+tags: [Design, Technology]
+
+---
+
+A browser is the program you use to view the internet. Your vehicle of choice on the information superhighway, as it were. The problem is, each browser renders what you see on the internet slightly differently. Part of what I get paid to do at my job is to try and make it look as close to the same on each browser as possible, while remembering [this](http://dowebsitesneedtolookexactlythesameineverybrowser.com/). For example, the exact same code as represented by Internet Explorer version 8 on Windows and Safari version 5 on Mac: \[caption id="attachment\_6702" align="aligncenter" width="300" caption="Form as Rendered by Internet Explorer v8 on Windows"\][![](https://chrisenns.com/wp-content/uploads/2010/07/ieform-300x266.png "Form as Rendered by Internet Explorer v8 on Windows")](https://chrisenns.com/wp-content/uploads/2010/07/ieform.png)\[/caption\] \[caption id="attachment\_6703" align="aligncenter" width="300" caption="Form as Rendered by Safari v5 on Mac"\][![](https://chrisenns.com/wp-content/uploads/2010/07/safariform-300x261.png "Form as Rendered by Safari v5 on Mac")](https://chrisenns.com/wp-content/uploads/2010/07/safariform.png)\[/caption\] Pretty different, eh? Personally I prefer the bottom version but that's just me. It actually took a [jQuery plugin](http://github.com/romac/jQuery.placeHoldize) to make the Internet Explorer version show the placeholder text. This is the frustration/challenge (depending on the day) facing web developers and designers each day. It's definitely getting better than it used to be - and will get much better when Microsoft releases [Internet Explorer version 9](http://en.wikipedia.org/wiki/Internet_Explorer_9).
