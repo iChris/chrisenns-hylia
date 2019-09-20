@@ -1,5 +1,5 @@
 ---
-title: 'Working Backwards from U2''s Songs of Experience - A Musical Journey'
+title: 'Working Backwards from U2s Songs of Experience - A Musical Journey'
 date: 2017-12-03
 draft: false
 tags: [albums, Music, Music, U2]
@@ -10,17 +10,17 @@ With U2's Songs of Experience out everywhere now, [I noticed iTunes has deals on
 
 ### [Songs of Experience](https://geo.itunes.apple.com/us/album/songs-of-experience-deluxe-edition/1300908333?mt=1&app=music&at=10l4Ki)
 
-If you don't have it, go get it. I'd recommend the deluxe version because the St Peter's String Version of "Lights of Home" is worth the upgrade price alone. ![](https://chrisenns.com/wp-content/uploads/2017/12/u2-albums-600x86.jpg)
+If you don't have it, go get it. I'd recommend the deluxe version because the St Peter's String Version of "Lights of Home" is worth the upgrade price alone. 
 
-You're Stuck in a Moment And Only Want One or Two
--------------------------------------------------
+![](https://chrisenns.com/wp-content/uploads/2017/12/u2-albums-600x86.jpg)
+
+## You're Stuck in a Moment And Only Want One or Two
 
 ### [Best of 1990-200](https://geo.itunes.apple.com/us/album/the-best-of-1990-2000/19816329?app=itunes&at=10l4Ki) / [Best of 1980-1990](https://geo.itunes.apple.com/us/album/the-best-of-1980-1990/1224687799?app=itunes&at=10l4Ki)
 
 Normally I'd frown on getting a Best Of collection from any artist - but I know that's often the gateway into their deeper cuts. And if you just want to stop here, you can't go wrong picking up their "[Best of 1990-200](https://geo.itunes.apple.com/us/album/the-best-of-1990-2000/19816329?app=itunes&at=10l4Ki)" collection. The "[Best of 1980-1990](https://geo.itunes.apple.com/us/album/the-best-of-1980-1990/1224687799?app=itunes&at=10l4Ki)" is great as well but if you've had a radio on at all in your life you've probably heard their 80's hits played and overplayed enough to know if you'd like them or not. The early 90s was U2 hitting their peak in popularity, but radio (at least in Canada where I live) doesn't seem to know what to do with 90s era U2 music.
 
-Achtung - I Will Follow You Deeper, Light My Way
-------------------------------------------------
+## Achtung - I Will Follow You Deeper, Light My Way
 
 Ok. Skip the greatest hits and get music the way God (yes, Bono) intended it.
 
@@ -56,8 +56,7 @@ You may have heard of the musical journey U2 went on in making the documentary o
 
 It's been theorized that U2 albums come in sets of three, and if that's true then 1997's [Pop](https://geo.itunes.apple.com/us/album/pop/1240416505?app=itunes&at=10l4Ki) is the conclusion of what the band started in Achtung Baby and Zooropa. This was the point where I remember a lot of my friend's getting off the U2 ride. Whether it was the choice of "Discotheque" for a single, along with Village People inspired music video, or the accompanying Popmart tour - a lot of my fellow U2 fans/friends at the time decided it was all too much. But there's plenty of amazing songs on this album - especially if [The Joshua Tree](https://geo.itunes.apple.com/us/album/the-joshua-tree/1212477993?app=itunes&at=10l4Ki) sounding U2 is your least favourite U2. "Please" is one of the most beautiful political songs they've written. "If God Will Send His Angels" is certainly one of my favourite U2 ballads and takes me back to Christmas in Dublin when I found a copy of the single I'd been looking for. "Gone" is a screamer of a tune, especially live. I think if they'd committed all the way to the themes they started out with on the first half of the record, this could've been an amazing experiment. But it feels like they got cold feet and needed to reign in the beats a bit and have more standard U2 sounding songs.
 
-A Trip Through Your Wires
--------------------------
+## A Trip Through Your Wires
 
 I chose to journey back through U2 by album as opposed to picking songs you might like. And so with that criteria in mind, the rest of U2's records all have great songs on them but aren't as interesting or necessary\[footnote\]Feel free to argue and disagree in the comments below - just remember that I wrote this on very little sleep and kept getting pulled away to help my son puke into a bucket. We are rock and roll!\[/footnote\] if you're trying to get your audio hooks into U2. The rest of their albums are listed in no particular order. Choose your own adventure on your U2 musical journey.
 
@@ -81,7 +80,6 @@ Despite having slammed October one paragraph ago, I have no trouble loving [Boy]
 
 I don't know how universally true this is, but for bands like U2, their songs come alive in concert. Whatever the staging and production they might choose, every time I hear a new U2 song for the first time I start imagining how they might perform it live on tour. Songs that I couldn't find a place for on the album suddenly change into something I need to hear once I've heard or seen it live. On their recent 30th Anniversary Joshua Tree tour, U2 took "Exit", already a fan favourite for sure, to a whole different level with the live performance of it. So while live isn't necessarily the best place to hear a song for the first time, it's almost a required experience for me if you're saying you just can't get into U2.
 
-There's Been A Lot of Talk About This Next Song
------------------------------------------------
+## There's Been A Lot of Talk About This Next Song
 
-...maybe, maybe too much talk. If you've read this far and have a comment on something you disagree with or maybe I've dissed your favourite song - by all means, leave a comment below. But if you're a fellow hardcore U2 fan - know that: a) I love you. You're part of my tribe. b) I think U2 is great. I love their music, their lyrics, their tours. c) As great as U2 is, I think it's fun to critique, debate, and discuss art. Which is why I have a lot of fun [hosting the @U2 Podcast](https://goodstuff.fm/atu2/) where we get to do exactly that - [subscribe in Apple Podcasts](https://itunes.apple.com/ca/podcast/the-atu2-podcast/id1018994132?mt=2) or wherever you get your podcasts. d) Be polite or I'll delete your comment. If I wait a week and rewrite this, the albums would probably tumble out in a different order. The songs I like and am drawn to are influenced by what's going on in my life. U2 has influenced my faith, my guitar, my relationships, and my mind in a way that no other musical artist has. I can't wait to hear their next album\[footnote\]When is Songs of Ascent going to be out already?\[/footnote\]!
+...maybe, maybe too much talk. If you've read this far and have a comment on something you disagree with or maybe I've dissed your favourite song - by all means, leave a comment below. But if you're a fellow hardcore U2 fan - know that: a) I love you. You're part of my tribe. b) I think U2 is great. I love their music, their lyrics, their tours. c) As great as U2 is, I think it's fun to critique, debate, and discuss art. Which is why I have a lot of fun [hosting the @U2 Podcast](https://goodstuff.fm/atu2/) where we get to do exactly that - [subscribe in Apple Podcasts](https://itunes.apple.com/ca/podcast/the-atu2-podcast/id1018994132?mt=2) or wherever you get your podcasts. d) Be polite or I'll delete your comment. If I wait a week and rewrite this, the albums would probably tumble out in a different order. The songs I like and am drawn to are influenced by what's going on in my life. U2 has influenced my faith, my guitar, my relationships, and my mind in a way that no other musical artist has. I can't wait to hear their next album.
