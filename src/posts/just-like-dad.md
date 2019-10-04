@@ -1,9 +1,0 @@
----
-title: 'Just Like Dad'
-date: 2008-04-28
-draft: false
-tags: [Family]
-
----
-
-Its been a while since we've posted, but I thought I'd share a few things that Damien's done lately. He seems to take on more and more of Chris' traits everyday. Yesterday we were at Matteo's 3rd Birthday. With lots of kids to play with, you'd think Damien might enjoy the interaction. But what does he do instead? After looking stunned & overwhelmed at everyone for a while: [![Stunned Damien](http://farm3.static.flickr.com/2096/2448187438_45486dfe82.jpg)](http://www.flickr.com/photos/lemon/2448187438/) He finds the safest, quietest place in the whole room to just hang out by himself. [![Damien's Static in the Hole](http://farm3.static.flickr.com/2253/2447419685_74bea24393.jpg)](http://www.flickr.com/photos/lemon/2447419685/) Once he got in there, he was quite happy! [![Damien's Big Smile](http://farm3.static.flickr.com/2383/2447417379_79b857a8a8.jpg)](http://www.flickr.com/photos/lemon/2447417379/) Chris & I talked about it on the way home, and we both thought it was likely something he would do as a kid too. One more cute story.... the other day I was typing a quick email with Damien on my lap, but he kept on wanting to type himself. So after getting a bit frustrated with him, I set him down on the floor. About a minute later, I look behind me and he's made his way to our closet and pulled out the keyboard from the old computer. It gave me a good laugh (and I worried that he knows too much about computers already!).[![Plugging in the USBs to the Keyboards](http://farm3.static.flickr.com/2340/2442665971_179c8fffb7.jpg)](http://www.flickr.com/photos/lemon/2442665971/)

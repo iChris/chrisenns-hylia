@@ -1,9 +1,0 @@
----
-title: 'Sasktel iPhone Registration'
-date: 2011-03-21
-draft: false
-tags: [announcement, Apple, cdma, iphone, Nerds, registration, sasktel, Technology]
-
----
-
-After announcing on Twitter that they would be carrying the iPhone 4 but giving no official launch date, Sasktel has launched a [registration form](http://www.sasktel.com/forms/iphone-registration.html) to collect information on people interested in an iPhone 4 on Sasktel. Still no official date given as to when the iPhone is coming. Sasktel just keeps teasing the poor folks with just enough information to keep them from jumping to Telus or Rogers. Assuming Sasktel actually does come out with the iPhone sometime soon, June/July is the time of year when Apple has traditionally come out with a new model of iPhone. How would you feel having **finally** got your iPhone 4, locking in to a 3 year contract with Sasktel and less than 3 months later the iPhone 5, or whatever Apple decides to call it, comes out? Sasktel should have been open from the beginning on what was going on, being realistic with announcements and release dates and trusted their customers to be smart enough and/or loyal enough to stick it out with them while they were negotiating to get the iPhone on their network. Instead, they played it out as if they were Apple with this great new product that people were anxiously waiting for. But nobody has to wait for Sasktel, unless they're locked into a contract or work at a job that requires them to deal with Sasktel - Telus and Rogers have had the iPhone 4 since it was available (or shortly thereafter). _Sasktel link via [iphoneincanada.ca](http://www.iphoneincanada.ca/iphone4/sasktel-posts-iphone-4-information-registration-form/)_

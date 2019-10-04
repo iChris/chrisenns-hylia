@@ -1,9 +1,0 @@
----
-title: 'Business Blogging'
-date: 2010-08-17
-draft: false
-tags: [Blogging, Technology]
-
----
-
-I've resurrected my [blog over at Lemon Productions](http://blog.lemonproductions.ca) with a bit of a renewed focus. ![](https://chrisenns.com/wp-content/uploads/2010/08/bloglemonproductions-300x136.png "Lemon Productions Blog") I'll have a thought or two throughout the week related to running an online business and felt like I didn't want to bore readers of this site (_Hi Mom!_) with that kind of stuff. And then I remembered that I have a freelance online business myself that I could promote with writing about running an online business and **SHAZAM!** - synergy! I have a pretty low tolerance for words like "synergy", "fourth quarter profits", "calls to action" and "maximizing our earning potential" so you won't find much of that kind of stuff on [the Lemon Productions blog](http://blog.lemonproductions.ca) - the stuff you'll find will be more like the kind of thing I might chat with you about over a drink, an idea that I can't get out of my head. You can [subscribe in your RSS reader](http://feeds.feedburner.com/lemonproductionsblog) or just [head over to the site](http://blog.lemonproductions.ca). p.s. If you lurv the typography and [sexy ampersands](http://shop.simplebits.com/product/ampersandwich-tee) on the blog as much as I do be sure to hit up [Matt Wiebe](https://twitter.com/mattwiebe) - [a web designer based in Winnipeg](http://somadesign.ca/) who did the WordPress theme. I can't guarantee I'll keep that theme forever (_I tend to be a bit schizophrenic with my own sites_) but it's a great start. ![](https://chrisenns.com/wp-content/uploads/2010/08/blogtypography.png "Blog Typography")

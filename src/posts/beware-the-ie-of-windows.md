@@ -1,9 +1,0 @@
----
-title: 'Beware the IE of Windows'
-date: 2004-06-30
-draft: false
-tags: [Uncategorized]
-
----
-
-If you're on a Windows machine and haven't switched from Internet Explorer yet, [maybe this will help.](http://www.internetnews.com/security/article.php/3374931) _The U.S. government's Computer Emergency Readiness Team is warning Web surfers to stop using Microsoft's Internet Explorer browser._ Here's a few browsers to check out as replacements for IE: [Mozilla Firefox](http://www.mozilla.org/products/firefox/) (and the coresponding email client [Thunderbird](http://www.mozilla.org/products/thunderbird/), [plain old Mozilla](http://www.mozilla.org/products/mozilla1.x/), or [Opera](http://www.opera.com/). Among the many reasons to consider dumping IE (by dump I mean stop using it... don't even think of trying to actually remove it from your computer, that would cause way more harm than good) and switching to one of the mentioned browsers: less chance of getting a web based virus, more popup blocking built in to other browsers, tabbed browsing ([explained here](http://www.mozilla.org/products/firefox/why/)), security. My main beef with IE is that despite being used by the majority of users (only [44% on my site - odd](http://www.nedstatbasic.net/s?tab=1&link=5&id=1701766)), it's one of the least standards compliant browers out there. When you have to design a web page, there's all sorts of tricks and hacks you have to add because IE (and to be fair, older versions of other browsers) don't render current designs properly - and Microsoft hasn't announced any plans to update IE until they get the next version of Windows (code-named [Longhorn](http://msdn.microsoft.com/longhorn/)) comes out, sometime in 2006/2007.

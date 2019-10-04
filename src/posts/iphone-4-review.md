@@ -1,9 +1,0 @@
----
-title: 'iPhone 4 Review'
-date: 2010-10-08
-draft: false
-tags: [Family, Pictures, Video]
-
----
-
-Not really. More like a sample of life with an iPhone 4 as a replacement for your digital camera: [![Hockey night in Canada](http://farm5.static.flickr.com/4085/5061415250_5d6a5248ce_m.jpg)](http://www.flickr.com/photos/lemon/5061415250/ "Hockey night in Canada") [![Soccer Star](http://farm5.static.flickr.com/4090/5057973617_26e74b394d_m.jpg)](http://www.flickr.com/photos/lemon/5057973617/ "Soccer Star") [![Cold Little Farmer](http://farm5.static.flickr.com/4106/5051854563_e32b20de27_m.jpg)](http://www.flickr.com/photos/lemon/5051854563/ "Cold Little Farmer") You can see all the pictures I've uploaded to Flickr from my iPhone 4 [here in this set](http://www.flickr.com/photos/lemon/sets/72157625121513820/). Considering it's a mobile phone, it's got an amazing camera on it.  [Watch the above video in HD](http://www.youtube.com/watch?v=W1a9cJOzSbI&hd=1) to get a better idea of the video quality on the iPhone 4. Loving it. There hasn't been any serious connection/cell issues that I've come across yet. The service definitely drops off inside our house if I'm holding it a certain way - but the free case that's coming from Apple should alleviate that. I've had great service just about everywhere else. And since Telus is using the same 3G network that Sasktel is building, the service should only improve as time goes on. As [Carlos](http://www.bloglos.com/) said, the main drawback to Telus so far seems to be the fact that you have to have a 716-xxxx number, which sounds odd in Saskatchewan.

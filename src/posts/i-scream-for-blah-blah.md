@@ -1,9 +1,0 @@
----
-title: 'I scream for blah blah'
-date: 2004-03-29
-draft: false
-tags: [Life]
-
----
-
-![Best ice cream evah](http://www.mennoboy.com/chris/archives/images/home/icecream2.jpg)We've found a mutual addiction in our love for Coffee Toffee Crunch ice cream. The mere mention of it's name causes me to froth at the mouth. Actually just typing it now has forced me to wipe my bottom lip. We've actually managed to make a single carton last over 3 different sittings - no small feat since when we originally discovered this stuff it was gone before the previews were over in a movie. We're attempting to exercise restraint but I have to wonder if eating a carton in a single night or spreading it over 3 nights is really doing anything except save us a few bucks. The stuff costs around $6/spoon so it's not cheap - but we have a savings plan set up for our ice cream purchases so we've got it covered. In _killing for hire_ news, I'd forgotten how much fun [Desert Combat](http://www.desertcombat.com/) was. It's insane that someone went through all this work to make a mod for a [game](http://www.eagames.com/official/battlefield/1942/us/home.jsp) and it's free. It's better than what I've seen of most of the official $39 add-on packs. You're riding along in your [M2A3 Bradley Fighting Vehicle](http://www.desertcombat.com/Vehicle%20Images/M2A3.jpg) and you can hear the [A-10 WartHogs](http://www.desertcombat.com/Vehicle%20Images/A10.jpg) flying overhead while you set your sights on a [Scud](http://www.desertcombat.com/Vehicle%20Images/SCUD.jpg) missile launcher. I think I need to go watch [Apocalypse Now](http://www.amazon.ca/exec/obidos/ASIN/B00005OWEG/farawsoclos0a-20).
